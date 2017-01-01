@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_etkinlikler"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Etkinliklerimiz" />
+
+        <item
+            android:id="@+id/nav_galeri"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Galeri" />
+
+        <item
+            android:id="@+id/nav_duyurular"
+            android:icon="@android:drawable/btn_star_big_off"
+            android:title="Duyurular" />
+        <item
+            android:visible="false"
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ayarlar" />
+    </group>
+
+    <group>
+    <item android:title="Sosyal Medya">
+        <menu>
+            <item
+
+                android:id="@+id/nav_instagram"
+                android:icon="@drawable/instagram"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_facebook"
+
+                android:icon="@drawable/ic_menu_facebook"
+                android:title="Facebook" />
+
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_menu_twitter"
+                android:title="Twitter" />
+        </menu>
+    </item>
+    </group>
+    <item android:title="Version 1.0"
+        android:checked="true"
+        android:enabled="false"
+        ></item>
+
+
+</menu>

@@ -1,0 +1,77 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="itukisfest.koksal.itukisfestcom.itukisfest.duyurularFragment">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#4DBCE9"
+        android:orientation="vertical"
+        android:layout_marginBottom="4dp"
+        >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum="100"
+
+            >
+            <ImageView
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="1dp"
+                android:layout_marginBottom="1dp"
+                android:id="@+id/imgEventHistory"
+                android:src="@drawable/beyazlogo1"
+                android:layout_gravity="center"
+
+                />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Duyurular"
+                android:layout_gravity="center"
+                android:textSize="20sp"
+                android:gravity="center|start"
+                android:layout_weight="100"
+                android:layout_marginLeft="4dp"
+                android:textColor="#ffff"
+                android:id="@+id/txtEventHistory" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+    <ListView
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="@drawable/border_ui"
+        android:divider="#4DBCE9"
+        android:dividerHeight="2dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+
+       />
+
+
+
+
+
+</LinearLayout>
+</FrameLayout>

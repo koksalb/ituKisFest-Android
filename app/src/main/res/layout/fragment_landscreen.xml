@@ -1,0 +1,262 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="itukisfest.koksal.itukisfestcom.itukisfest.landscreenFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/ll1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="#4DBCE9"
+            android:orientation="vertical"
+            android:layout_marginBottom="4dp"
+
+            >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="100"
+
+                >
+
+
+
+                <ImageView
+
+                    android:layout_height="40dp"
+                    android:layout_width="40dp"
+                    android:id="@+id/imgEventHistory"
+                    android:src="@drawable/beyazlogo1"
+                    />
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:text="Galeri"
+                    android:textSize="20sp"
+                    android:gravity="center|start"
+                    android:layout_weight="100"
+
+                    android:textColor="#ffff"
+                    android:id="@+id/txtEventHistory" />
+
+                <ToggleButton
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:background="@drawable/togglerevents"
+                    android:layout_marginRight="4dp"
+                    android:id="@+id/togglerbutton2"
+                    android:gravity="center"
+                    android:textOff=""
+                    android:textOn=""
+                    android:checked="false" />
+
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@android:id/list"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="4dp">
+
+        </ListView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#40000000"
+        android:id="@+id/ll2"
+        >
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:background="#05000000"
+            android:orientation="horizontal"
+            android:visibility="gone"
+
+            >
+            <LinearLayout
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="4dp"
+                android:background="#26ADE4"
+                android:id="@+id/backlayout">
+            <ImageView
+
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:id="@+id/kapatmaresmi"
+                android:src="@android:drawable/ic_input_delete"
+                />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="Geri"
+                android:gravity="center|start"
+                android:layout_weight="100"
+                android:textSize="15dp"
+                android:textColor="#ffff"
+                android:id="@+id/backoff" />
+
+            </LinearLayout>
+
+            </LinearLayout>
+
+        <ImageView
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/buyukresim"
+            android:src="@drawable/test"
+            android:background="#08000000"
+            android:layout_marginBottom="60dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="-60dp"
+            android:weightSum="100"
+
+            android:id="@+id/swiper"
+            >
+<LinearLayout
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="35"/>
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/left"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="15"/>
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:text="KAYDIR"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:textColor="#000000"
+    android:textStyle="bold"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="15"/>
+            <ImageView
+                android:layout_width="60dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/right"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="35"/>
+        </LinearLayout>
+
+
+
+
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="-40dp"
+            android:orientation="horizontal"
+            android:weightSum="100"
+            android:background="#05000000"
+            android:visibility="gone"
+            >
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:background="#26ADE4"
+                android:layout_marginLeft="4dp"
+                android:layout_marginBottom="2dp"
+                android:id="@+id/goback">
+            <ImageView
+                android:layout_marginLeft="10dp"
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:id="@+id/geri"
+                android:src="@android:drawable/ic_media_rew"
+
+                />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="Önceki"
+                android:gravity="center|start"
+                android:textSize="15dp"
+                android:textColor="#ffff"
+                android:id="@+id/geriyazisi" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="100"
+                />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:background="#26ADE4"
+                android:layout_marginRight="4dp"
+                android:layout_marginBottom="2dp"
+                android:id="@+id/goforward">
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:text="Sonraki"
+                android:gravity="center|end"
+                android:layout_weight="100"
+                android:textSize="15dp"
+                android:textColor="#ffff"
+                android:id="@+id/ileriyazisi" />
+
+            <ImageView
+android:layout_marginRight="10dp"
+                android:layout_height="40dp"
+                android:layout_width="40dp"
+                android:id="@+id/ileri"
+                android:src="@android:drawable/ic_media_ff"
+                android:gravity="center|end"
+                />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
+</LinearLayout>
+
+

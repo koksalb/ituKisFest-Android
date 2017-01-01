@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "504020143447",
+    "firebase_url": "https://itu-kis-festivali.firebaseio.com",
+    "project_id": "itu-kis-festivali",
+    "storage_bucket": "itu-kis-festivali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504020143447:android:27f4fd53ebcb2abd",
+        "android_client_info": {
+          "package_name": "itukisfest.koksal.itukisfestcom.itukisfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504020143447-di1bg9hc79ljtadg6e1enocb6shr3p3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqhyorcDKK1Mh3yg4VukGUpu2Z_BcViTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
