@@ -65,7 +65,6 @@ public class CustomAdapter extends ArrayAdapter<imglr>
 
 
 
-    
 
 
     @Override
