@@ -54,18 +54,11 @@ tools:context="itukisfest.koksal.itukisfestcom.itukisfest.duyurularFragment">
 
     <ListView
         android:layout_marginTop="8dp"
+        android:id="@+id/listduyuru"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/list"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginLeft="4dp"
-        android:layout_marginRight="4dp"
-        android:layout_marginBottom="4dp"
-        android:background="@drawable/border_ui"
-        android:divider="#4DBCE9"
-        android:dividerHeight="2dp"
-        android:paddingLeft="4dp"
-        android:paddingRight="4dp"
+        android:layout_height="match_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="8dp"
 
        />
 
