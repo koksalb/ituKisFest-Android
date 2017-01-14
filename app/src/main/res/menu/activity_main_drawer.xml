@@ -46,7 +46,7 @@
         </menu>
     </item>
     </group>
-    <item android:title="Version 1.0"
+    <item android:title="Version 1.1"
         android:checked="true"
         android:enabled="false"
         ></item>
