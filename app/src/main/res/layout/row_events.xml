@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:background="#4DBCE9"
+    android:background="@color/colorPrimary"
     android:layout_height="match_parent"
     android:orientation="vertical">
     <LinearLayout
         android:layout_gravity="top"
         android:layout_width="match_parent"
         android:layout_height="180dp"
-        android:background="#4DBCE9"
+        android:background="@color/colorPrimary"
         android:id="@+id/imglayout"
         android:showDividers="middle"
         android:layout_marginTop="4dp"
@@ -16,6 +16,7 @@
 
         >
         <ImageView
+            android:contentDescription="EventResmi"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/imageView"
@@ -25,13 +26,13 @@
             android:scaleType="centerCrop"
 
 
-            android:background="#7aaefb"/>
+            android:background="@color/colorPrimary"/>
         </LinearLayout>
     <LinearLayout
         android:layout_gravity="top"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#26ADE4"
+        android:background="@color/colorPrimaryDark"
         android:id="@+id/onerow"
         android:showDividers="middle"
 
@@ -55,7 +56,7 @@
                 android:gravity="center"
                 android:textStyle="bold"
                 android:layout_height="wrap_content"
-                android:textSize="30dp"
+                android:textSize="30sp"
                 android:id="@+id/txtname"
                 android:background="#ffffff"
                 android:text="Sucuk Ekmek Partisi"/>
@@ -71,11 +72,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtdescription"
         android:background="#ffffff"
-        android:textSize="16dp"
+        android:textSize="18sp"
+        android:lineSpacingExtra="1.5dp"
+        android:padding="8dp"
         android:layout_marginLeft="4dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:text="     Lorem ipsum dolor sit amet, dicat mnesarchum ad est. Autem eripuit id has. Eu case disputando ius. Porro dolorum ocurreret nam ut, veritus mnesarchum et ius. Sea movet menandri ei. In ius legendos patrioque, at apeirian constituto mel.Lorem ipsum dolor sit amet, dicat mnesarchum ad est. Autem eripuit id has. Eu case disputando ius. Porro dolorum ocurreret nam ut, veritus mnesarchum et ius. Sea movet menandri ei. In ius legendos patrioque, at apeirian constituto mel."/>
+        android:text="Event yazisi buraya gelicek"/>
 
 
 </LinearLayout>
@@ -91,7 +94,8 @@
         android:layout_height="30dp"
         android:layout_gravity="center"
         android:src="@android:drawable/ic_menu_compass"
-        android:background="#4DBCE9"
+        android:background="@color/colorPrimary"
+        android:layout_marginStart="4dp"
         android:layout_marginLeft="4dp"
         android:gravity="center|start"
         />
@@ -111,7 +115,7 @@
             android:layout_marginBottom="2dp"
             android:background="#ffffff"
             android:maxLines="1"
-            android:textSize="20dp"
+            android:textSize="20sp"
             android:gravity="center|start"
             android:text="21.00" />
 
@@ -123,7 +127,7 @@
             android:id="@+id/txtdate2"
             android:background="#ffffff"
             android:maxLines="1"
-            android:textSize="15dp"
+            android:textSize="15sp"
             android:gravity="center|start"
             android:text="18.01.2017" />
 
@@ -145,7 +149,7 @@
                 android:id="@+id/txtlocation"
                 android:background="#ffffff"
                 android:textAlignment="viewEnd"
-                android:textSize="15dp"
+                android:textSize="15sp"
                 android:gravity="center|end"
                 android:text="Sucukçu Kemal Dayı"
 />
@@ -159,9 +163,10 @@
         android:layout_height="30dp"
         android:layout_gravity="center"
         android:src="@android:drawable/ic_dialog_map"
-        android:background="#4DBCE9"
+        android:background="@color/colorPrimary"
         android:gravity="center|end"
-        android:layout_marginRight="4dp"/>
+        android:layout_marginRight="4dp"
+        android:layout_marginEnd="4dp"/>
 
 </LinearLayout>
 

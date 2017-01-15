@@ -100,6 +100,10 @@ public class listadapter extends ArrayAdapter<events>
 
             viewHolder.img = (ImageView)convertView.findViewById(R.id.imageView);
 
+            Typeface type = Typeface.createFromAsset(getContext().getAssets(),"fonts/Helvetica2.otf");
+            viewHolder.txtDescription.setTypeface(type);
+            viewHolder.txtLocation.setTypeface(type);
+
             convertView.setTag(viewHolder);
         }
         else

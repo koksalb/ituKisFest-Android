@@ -4,6 +4,7 @@ package itukisfest.koksal.itukisfestcom.itukisfest;
  * Created by koksa on 26.10.2016.
  */
 import android.content.Context;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.preference.CheckBoxPreference;
 import android.support.v4.app.Fragment;

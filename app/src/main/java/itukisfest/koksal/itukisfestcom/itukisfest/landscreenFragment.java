@@ -9,6 +9,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Typeface;
 import android.media.Image;
 import android.media.MediaScannerConnection;
 import android.media.browse.MediaBrowser;
@@ -177,7 +178,9 @@ public class landscreenFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.fragment_landscreen, container, false);
 
-
+        TextView kaydir = (TextView)view.findViewById(R.id.kaydir);
+        Typeface type = Typeface.createFromAsset(getContext().getAssets(),"fonts/Helvetica2.otf");
+        kaydir.setTypeface(type);
 
 
 

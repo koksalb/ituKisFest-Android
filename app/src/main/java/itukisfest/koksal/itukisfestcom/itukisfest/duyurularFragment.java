@@ -5,6 +5,7 @@ package itukisfest.koksal.itukisfestcom.itukisfest;
  */
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -16,6 +17,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -47,6 +49,9 @@ public class duyurularFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
 
         super.onCreate(savedInstanceState);
+
+
+
 
         mDatabase = FirebaseDatabase.getInstance().getReference();
         mDatabase.child("notifications").addValueEventListener(new ValueEventListener() {
@@ -117,8 +122,10 @@ public class duyurularFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         setRetainInstance(true);
+        View view =inflater.inflate(R.layout.fragment_duyurular, container, false);
+        
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_duyurular, container, false);
+        return view;
     }
 
 }

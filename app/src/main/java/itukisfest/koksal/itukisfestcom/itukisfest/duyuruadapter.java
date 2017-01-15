@@ -98,6 +98,10 @@ public class duyuruadapter extends ArrayAdapter<String>
             viewHolder = new ViewHolder();
             viewHolder.txtNotification = (TextView)convertView.findViewById(R.id.txtnotification);
            convertView.setTag(viewHolder);
+            Typeface type = Typeface.createFromAsset(getContext().getAssets(),"fonts/Helvetica2.otf");
+            viewHolder.txtNotification.setTypeface(type);
+
+
         }
         else
         {
