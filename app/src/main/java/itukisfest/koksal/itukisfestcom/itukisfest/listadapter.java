@@ -147,14 +147,14 @@ public class listadapter extends ArrayAdapter<events>
 
         if(date.compareTo(tc1.toString())>0)
         {
-            viewHolder.txtDate.setTextColor(Color.RED);
-            viewHolder.txtDate2.setTextColor(Color.RED);
+            viewHolder.txtDate.setTextColor(Color.parseColor("#DF151A"));
+            viewHolder.txtDate2.setTextColor(Color.parseColor("#DF151A"));
 
         }
         else
         {
-            viewHolder.txtDate.setTextColor(Color.GREEN);
-            viewHolder.txtDate2.setTextColor(Color.GREEN);
+            viewHolder.txtDate.setTextColor(Color.parseColor("#00DA3C"));
+            viewHolder.txtDate2.setTextColor(Color.parseColor("#00DA3C"));
 
         }
 

@@ -178,9 +178,7 @@ public class landscreenFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.fragment_landscreen, container, false);
 
-        TextView kaydir = (TextView)view.findViewById(R.id.kaydir);
-        Typeface type = Typeface.createFromAsset(getContext().getAssets(),"fonts/Helvetica2.otf");
-        kaydir.setTypeface(type);
+
 
 
 
