@@ -147,6 +147,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_22f036413166721f2f61afac5ce9174669fdfaa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -187,7 +196,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6558a53b4a4ace62c59410b7a35babb39c9caeaa">
+        sha1="49b7307acd4c56081d767e95c4e89a4d0d304a76">
         <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a43ce587222f0b5ac851dede07c8ed3b351c25d\classes.dex" />
     </item>
     <item
@@ -232,7 +241,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="62d17901ac8edc0bf6e871cddd79cffbdd961b9d">
+        sha1="040367dc2dff2deebc147e383502ad78f4e798bf">
         <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7bbd34650c78c3c471d1f72e7bba5496547527eb\classes.dex" />
     </item>
     <item
