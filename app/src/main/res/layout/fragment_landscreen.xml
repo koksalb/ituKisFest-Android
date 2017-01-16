@@ -40,7 +40,7 @@
                     android:layout_marginStart="4dp"
                     android:padding="4dp"
                     android:id="@+id/imgEventHistory"
-                    android:src="@drawable/beyazlogo1"
+                    android:src="@drawable/galeri"
                     />
 
                 <TextView

@@ -39,7 +39,7 @@
 
         >
 
-        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        <LinearLayout
             android:orientation="vertical" android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:showDividers="middle"
@@ -92,9 +92,9 @@
     <ImageView
         android:layout_width="30dp"
         android:layout_height="30dp"
+        android:scaleType="centerCrop"
         android:layout_gravity="center"
-        android:src="@android:drawable/ic_menu_compass"
-        android:background="@color/colorPrimary"
+        android:src="@drawable/muratdate2"
         android:layout_marginStart="4dp"
         android:layout_marginLeft="4dp"
         android:gravity="center|start"
@@ -162,8 +162,8 @@
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_gravity="center"
-        android:src="@android:drawable/ic_dialog_map"
-        android:background="@color/colorPrimary"
+        android:src="@drawable/muratlocation2"
+        android:scaleType="centerCrop"
         android:gravity="center|end"
         android:layout_marginRight="4dp"
         android:layout_marginEnd="4dp"/>
@@ -171,9 +171,6 @@
 </LinearLayout>
 
         </LinearLayout>
-
-
-
 
 
     </LinearLayout>

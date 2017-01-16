@@ -34,7 +34,7 @@
                     android:layout_marginLeft="4dp"
                     android:padding="4dp"
                     android:id="@+id/imgEventHistory"
-                    android:src="@drawable/beyazlogo1"
+                    android:src="@drawable/ski"
                     />
 
                 <TextView
