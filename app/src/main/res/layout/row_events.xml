@@ -78,7 +78,7 @@
         android:layout_marginLeft="4dp"
         android:layout_marginRight="4dp"
         android:layout_marginBottom="4dp"
-        android:text="Event yazisi buraya gelicek"/>
+        android:text="Event yazisi buraya gelicek.Event yazisi buraya gelicek.Event yazisi buraya gelicek.Event yazisi buraya gelicek.Event yazisi buraya gelicek.Event yazisi buraya gelicek.Event yazisi buraya gelicek"/>
 
 
 </LinearLayout>
