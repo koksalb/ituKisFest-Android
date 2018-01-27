@@ -103,6 +103,7 @@ public class landscreenFragment extends Fragment {
 
 
         mDatabase = FirebaseDatabase.getInstance().getReference();
+        mDatabase.keepSynced(true);
         mDatabase.child("gallery").addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
