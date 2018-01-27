@@ -44,19 +44,55 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eab18d5d-7e1e-44f3-b900-e819cecdf970" name="Default" comment="Event description and the notifications are now selectable. So can be copy pasted if necessary">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_25_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_transition_25_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_github_lawloretienne_imagegallery_0_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_animated_vector_drawable_24_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_annotations_25_0_0_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_ui_24_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_core_utils_25_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_fragment_24_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_media_compat_24_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/proguard-files/proguard-android-optimize.txt-2.2.3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/proguard-files/proguard-android.txt-2.2.3" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/landscreenFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/landscreenFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_appcompat_v7_25_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_design_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_design_25_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_recyclerview_v7_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_palette_v7_22_2_0.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_25_0_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_compat_25_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_v4_25_0_1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_support_vector_drawable_25_0_1.xml" />
     </list>
     <ignored path="ituKisFest3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -88,11 +124,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="landscreenFragment.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="landscreenFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/landscreenFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="108" column="64" lean-forward="false" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+            <state relative-caret-position="136">
+              <caret line="103" column="8" lean-forward="false" selection-start-line="103" selection-start-column="8" selection-end-line="142" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainmenuFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/mainmenuFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3106#3114#0" expanded="true" />
+                <element signature="e#11139#11389#0" expanded="true" />
+                <element signature="e#11388#11389#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -107,8 +201,16 @@
         <option value="Class" />
         <option value="layoutResourceFile_vertical" />
         <option value="ASClass" />
+        <option value="valueResourceFile" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>eventcount</find>
+      <find>loadImageThumbnail</find>
+      <find>images</find>
+    </findStrings>
   </component>
   <component name="GenerateSignedApkSettings">
     <option name="KEY_STORE_PATH" value="C:\Users\koksa\Desktop\ituKisFest3\signature.jks" />
@@ -169,6 +271,16 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportTransition2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon980Library" />
@@ -184,6 +296,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:palette-v7:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportPaletteV72220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -244,11 +361,6 @@
                 <option name="description" value="Displays all dependencies declared in root project 'ituKisFest-Android'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -320,11 +432,6 @@
                 <option name="name" value="prepareComGoogleFirebaseFirebaseCore980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileReleaseRenderscript" />
               </ExternalTaskPojo>
@@ -340,6 +447,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.github.lawloretienne:imagegallery:0.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGithubLawloretienneImagegallery010Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -360,6 +472,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
@@ -395,6 +512,11 @@
                 <option name="name" value="compileDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeReleaseJniLibFolders" />
               </ExternalTaskPojo>
@@ -414,6 +536,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -483,6 +610,11 @@
                 <option name="name" value="prepareUkCoChrisjenxCalligraphy220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportDesign2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="connectedCheck" />
@@ -507,6 +639,11 @@
                 <option name="name" value="processDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.github.chrisbanes:PhotoView:1.3.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComGithubChrisbanesPhotoView131Library" />
@@ -526,11 +663,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mergeDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-media-compat:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files. [incubating]" />
@@ -568,9 +700,14 @@
                 <option name="name" value="mergeReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:24.2.1" />
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:25.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72421Library" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the Android dependencies of the project." />
@@ -584,11 +721,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugUnitTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-utils:25.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2500Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -628,18 +760,13 @@
                 <option name="name" value="compileReleaseJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-compat:25.0.0" />
+                <option name="description" value="Prepare com.android.support:support-compat:25.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCompat2500Library" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="jarReleaseClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportDesign2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -665,11 +792,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-ui:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUi2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.android.gms:play-services-base:9.8.0" />
@@ -803,16 +925,6 @@
                 <option name="name" value="prepareDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportV42421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-fragment:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportSupportFragment2421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
@@ -829,11 +941,6 @@
                 <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl980Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Debug build." />
@@ -871,6 +978,11 @@
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="build" />
@@ -906,6 +1018,11 @@
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="processReleaseGoogleServices" />
               </ExternalTaskPojo>
@@ -931,6 +1048,16 @@
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportV42501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:transition:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportTransition2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon980Library" />
@@ -946,6 +1073,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:palette-v7:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportPaletteV72220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1001,11 +1133,6 @@
                 <option name="description" value="Displays all dependencies declared in project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:recyclerview-v7:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportRecyclerviewV72421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1077,11 +1204,6 @@
                 <option name="name" value="prepareComGoogleFirebaseFirebaseCore980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-vector-drawable:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileReleaseRenderscript" />
               </ExternalTaskPojo>
@@ -1097,6 +1219,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.github.lawloretienne:imagegallery:0.1.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComGithubLawloretienneImagegallery010Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1117,6 +1244,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="processReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Release build." />
@@ -1152,6 +1284,11 @@
                 <option name="name" value="compileDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mergeReleaseJniLibFolders" />
               </ExternalTaskPojo>
@@ -1171,6 +1308,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mergeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1240,6 +1382,11 @@
                 <option name="name" value="prepareUkCoChrisjenxCalligraphy220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportDesign2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="connectedCheck" />
@@ -1264,6 +1411,11 @@
                 <option name="name" value="processDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.github.chrisbanes:PhotoView:1.3.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComGithubChrisbanesPhotoView131Library" />
@@ -1283,11 +1435,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mergeDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-media-compat:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1320,9 +1467,14 @@
                 <option name="name" value="mergeReleaseShaders" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:appcompat-v7:24.2.1" />
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:25.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAppcompatV72421Library" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the Android dependencies of the project." />
@@ -1336,11 +1488,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileDebugUnitTestSources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-utils:25.0.0" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2500Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1380,18 +1527,13 @@
                 <option name="name" value="compileReleaseJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-compat:25.0.0" />
+                <option name="description" value="Prepare com.android.support:support-compat:25.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportCompat2500Library" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2501Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="jarReleaseClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:design:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportDesign2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1417,11 +1559,6 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="preReleaseUnitTestBuild" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-core-ui:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportCoreUi2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.android.gms:play-services-base:9.8.0" />
@@ -1555,16 +1692,6 @@
                 <option name="name" value="prepareDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportV42421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-fragment:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportSupportFragment2421Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="generateReleaseResources" />
               </ExternalTaskPojo>
@@ -1581,11 +1708,6 @@
                 <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl980Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:animated-vector-drawable:24.2.1" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the Debug build." />
@@ -1624,6 +1746,11 @@
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="build" />
@@ -1659,6 +1786,11 @@
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2501Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="processReleaseGoogleServices" />
               </ExternalTaskPojo>
@@ -1689,13 +1821,20 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.3/344060a1bf4666fea5590eeee815fc2a79b5235a/gradle-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.3/7b8f79621d95e3ce1e95c0852db14d9d7e1d1951/gradle-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/32b833222c886ecfb37d79b1a05ce1eddb702db1/google-services-3.0.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.3/bfc5ed39e7ac5890d6cf80e8c5545dab9021b810/gradle-core-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.3/3a777b0626810e0ccdced7d750ac4b60c279616c/gradle-core-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.3/8d059a6102806269aee14d470bc73d44c0bfa4f0/builder-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.3/13e7339544e824a3a5f8ecff42173c013791578b/builder-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.3/9ca2dd056b351c893bae1c7ac1232454ec328517/lint-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.3/aa03a3669f2913b9bc6f5f4fba4418f974e48cb7/lint-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9e3531016922fe9b88fb9f7ae9f5b0dd3289ae4f/gradle-api-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9a45614f789d4aab624d2a61983263885f42b615/gradle-api-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/aee7a865f76af8f91963ce3f8b3f62070f6eeeb/compilerCommon-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/8c3829022a54acd042b5382a4a873ee2d64c29ee/compilerCommon-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
@@ -1705,42 +1844,59 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.3/1f3c26cd56ec3199fc49634cfa37647cd811a8c3/builder-model-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.3/eddf6035ce0a31651527b4c3cc239428e877c43a/builder-model-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.3/746c5f19def7dfc91844b3edf2f99b2356aa4610/builder-test-api-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.3/700079fc243c217dbd6250ac01d2d6210ca8a0d6/builder-test-api-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.3/5743d9517e0aa71e0fbcba2a20affba66b2b2753/sdklib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.3/9f12cfc56b1df4e42fa2b73f9936b586b9a56a2/sdklib-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.3/30ff0547c45f5f079a7fd9c9ac69f93d3b0e955f/sdk-common-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.3/2c49ca3df5bb961473b096bab2a615a7cda50dc/sdk-common-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.3/3ef7cd06f588852bae10a304d3855a2d51d6d642/common-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.3/255aa01048bebb511d828c6a5fc668df13b8f39d/common-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.3/34adfc7b2d9e3ae920913b46b8b075cfa2a7afb2/manifest-merger-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.3/d0212c507be4c38c39f4ee06a7df5a44f500ed3b/manifest-merger-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.3/9bb4f6b357fe6d260e5c880717c1ece8a6bae6ea/ddmlib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.3/2b66df9156f476b0ccee44b378cd09073118ff59/ddmlib-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.11.0/jack-api-0.11.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.3/a9fba9b00f139a86bd907cad4c084686ff7b1a8/protos-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.3/821098054f9667d0f2536d7f2d0200d8bdd9c898/protos-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.3/9d18a216c427959ca0e5580fb1b9b7433ce01c73/shared-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.3/785426dac20cfe596e4cf36d01aad930ffdcb05c/shared-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.3/8cfb7881aaada4d0fe28c6e2ab56b7150ff8bf8a/tracker-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.3/c807f7b3d9aa3cee795ecac620d22c5ca7dd92e1/tracker-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.3/819e632d46915e2772112e07b779cc878cad4a88/lint-checks-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.3/eae71c1f5ce54195dc821133e3a5df8145de8ff5/lint-checks-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/212ef3aaf0963bf1985c999e1daa4e8c43825a3f/baseLibrary-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.3/14970b6fa3881b4622abdec9d64866a687261236/annotations-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.3/a9970f79003cbf4aaaf26a5590aca7066f209347/annotations-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.3/2688434b8868bd41526b79d49330116b2da464a9/layoutlib-api-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.3/ead9944caa7cba814184148efe69faf8896f4478/layoutlib-api-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.3/bcca419668a00afc455b481a5541c43083f1cd08/dvlib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.3/5afd79f645811a98c0519141cc13900c659091a8/dvlib-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.3/b17b0ce2b6c0063ee4ebcd49becc4054cb6b7e98/repository-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.3/179dee8115834f40bd9b39675da3a0273174c3ca/repository-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.3/1124bb83bc7f77eadf151691ece08c37ac682d3f/lint-api-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.3/fb7afa11dcda11d5bf0fcd3dcfec3e13ee921057/lint-api-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
@@ -1749,6 +1905,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/uast/145.597.4/252000592582dea402a8ff20b70c325315c2129d/uast-145.597.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/uast/145.597.4/6b430796bdb6563146affb34fb840c64e8d1d3b1/uast-145.597.4.jar" />
                           </list>
                         </option>
@@ -1761,13 +1918,20 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.3/344060a1bf4666fea5590eeee815fc2a79b5235a/gradle-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/2.2.3/7b8f79621d95e3ce1e95c0852db14d9d7e1d1951/gradle-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/32b833222c886ecfb37d79b1a05ce1eddb702db1/google-services-3.0.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.3/bfc5ed39e7ac5890d6cf80e8c5545dab9021b810/gradle-core-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/2.2.3/3a777b0626810e0ccdced7d750ac4b60c279616c/gradle-core-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.3/8d059a6102806269aee14d470bc73d44c0bfa4f0/builder-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/2.2.3/13e7339544e824a3a5f8ecff42173c013791578b/builder-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.3/9ca2dd056b351c893bae1c7ac1232454ec328517/lint-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint/25.2.3/aa03a3669f2913b9bc6f5f4fba4418f974e48cb7/lint-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/build/transform-api/2.0.0-deprecated-use-gradle-api/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9e3531016922fe9b88fb9f7ae9f5b0dd3289ae4f/gradle-api-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.2.3/9a45614f789d4aab624d2a61983263885f42b615/gradle-api-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/aee7a865f76af8f91963ce3f8b3f62070f6eeeb/compilerCommon-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.2.3/8c3829022a54acd042b5382a4a873ee2d64c29ee/compilerCommon-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.4/asm-commons-5.0.4.jar" />
@@ -1777,42 +1941,59 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/jopt-simple/jopt-simple/4.9/jopt-simple-4.9.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.3/1f3c26cd56ec3199fc49634cfa37647cd811a8c3/builder-model-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.2.3/eddf6035ce0a31651527b4c3cc239428e877c43a/builder-model-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.3/746c5f19def7dfc91844b3edf2f99b2356aa4610/builder-test-api-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/2.2.3/700079fc243c217dbd6250ac01d2d6210ca8a0d6/builder-test-api-2.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.3/5743d9517e0aa71e0fbcba2a20affba66b2b2753/sdklib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/25.2.3/9f12cfc56b1df4e42fa2b73f9936b586b9a56a2/sdklib-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.3/30ff0547c45f5f079a7fd9c9ac69f93d3b0e955f/sdk-common-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/25.2.3/2c49ca3df5bb961473b096bab2a615a7cda50dc/sdk-common-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.3/3ef7cd06f588852bae10a304d3855a2d51d6d642/common-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/25.2.3/255aa01048bebb511d828c6a5fc668df13b8f39d/common-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.3/34adfc7b2d9e3ae920913b46b8b075cfa2a7afb2/manifest-merger-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.2.3/d0212c507be4c38c39f4ee06a7df5a44f500ed3b/manifest-merger-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.3/9bb4f6b357fe6d260e5c880717c1ece8a6bae6ea/ddmlib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.2.3/2b66df9156f476b0ccee44b378cd09073118ff59/ddmlib-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.11.0/jack-api-0.11.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.10.0/jill-api-0.10.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.3/a9fba9b00f139a86bd907cad4c084686ff7b1a8/protos-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/25.2.3/821098054f9667d0f2536d7f2d0200d8bdd9c898/protos-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.3/9d18a216c427959ca0e5580fb1b9b7433ce01c73/shared-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/25.2.3/785426dac20cfe596e4cf36d01aad930ffdcb05c/shared-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.3/8cfb7881aaada4d0fe28c6e2ab56b7150ff8bf8a/tracker-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/25.2.3/c807f7b3d9aa3cee795ecac620d22c5ca7dd92e1/tracker-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.4/asm-tree-5.0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.3/819e632d46915e2772112e07b779cc878cad4a88/lint-checks-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.2.3/eae71c1f5ce54195dc821133e3a5df8145de8ff5/lint-checks-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.5.1/ecj-4.5.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/212ef3aaf0963bf1985c999e1daa4e8c43825a3f/baseLibrary-2.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.2.3/b4b51d1925cdfda98fd861230c1ecb5855500129/baseLibrary-2.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr4/4.5.3/antlr4-4.5.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.3/14970b6fa3881b4622abdec9d64866a687261236/annotations-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.2.3/a9970f79003cbf4aaaf26a5590aca7066f209347/annotations-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.3/2688434b8868bd41526b79d49330116b2da464a9/layoutlib-api-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/25.2.3/ead9944caa7cba814184148efe69faf8896f4478/layoutlib-api-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.3/bcca419668a00afc455b481a5541c43083f1cd08/dvlib-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.2.3/5afd79f645811a98c0519141cc13900c659091a8/dvlib-25.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.3/b17b0ce2b6c0063ee4ebcd49becc4054cb6b7e98/repository-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.2.3/179dee8115834f40bd9b39675da3a0273174c3ca/repository-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.3/1124bb83bc7f77eadf151691ece08c37ac682d3f/lint-api-25.2.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.2.3/fb7afa11dcda11d5bf0fcd3dcfec3e13ee921057/lint-api-25.2.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.4/asm-analysis-5.0.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
@@ -1821,6 +2002,7 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/uast/145.597.4/252000592582dea402a8ff20b70c325315c2129d/uast-145.597.4-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.external.com-intellij/uast/145.597.4/6b430796bdb6563146affb34fb840c64e8d1d3b1/uast-145.597.4.jar" />
                           </list>
                         </option>
@@ -1864,11 +2046,7 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/CustomAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/eventFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/duyuruadapter.java" />
@@ -1877,7 +2055,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/listadapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/row_notifications.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/row_events.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/border_ui.xml" />
@@ -1885,13 +2062,20 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_landscreen.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_duyurular.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/landscreenFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/themes.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="21" />
     <option name="y" value="1" />
-    <option name="width" value="1404" />
+    <option name="width" value="1477" />
     <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1983,7 +2167,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ituKisFest3" />
+              <option name="myItemId" value="ituKisFest-Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1993,7 +2177,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ituKisFest3" />
+              <option name="myItemId" value="ituKisFest-Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2007,7 +2191,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ituKisFest3" />
+              <option name="myItemId" value="ituKisFest-Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2025,7 +2209,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ituKisFest3" />
+              <option name="myItemId" value="ituKisFest-Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2047,7 +2231,153 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ituKisFest3" />
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-v21" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ituKisFest-Android" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2084,7 +2414,7 @@
     <property name="android.sdk.path" value="D:/Android/sdk" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="device.picker.selection" value="33007aa8c4502313" />
+    <property name="device.picker.selection" value="Nexus_5X_API_25" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPropertiesWindowManager-NlEditorPanel.SHOW" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPropertiesWindowManager-NlEditorPanel.WIDTH" value="428" />
@@ -2094,6 +2424,7 @@
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1517053250210" />
+    <property name="android.profiler.active" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2178,7 +2509,55 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517054565673" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517061011099" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517061011099" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2212,6 +2591,27 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <envs />
@@ -2230,6 +2630,31 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="app" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
       <method />
     </configuration>
@@ -2315,7 +2740,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517054565673" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1517061011100" />
       </method>
     </configuration>
     <list size="1">
@@ -2481,32 +2906,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="1" width="1404" height="997" extended-state="0" />
+    <frame x="21" y="1" width="1477" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.43976545" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896304" sideWeight="0.35850388" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32657927" sideWeight="0.6984733" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Assistant" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956952" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24938676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45411205" sideWeight="0.7671136" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.4942748" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32896304" sideWeight="0.6414961" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.56023455" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.49499" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26605505" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="2386" y="2" width="1065" height="1041" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32777116" sideWeight="0.4875954" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.65618336" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7091776" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.49618322" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32628062" sideWeight="0.5042644" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2872024" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2724065" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.4942748" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24938676" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26460072" sideWeight="0.66684437" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2517,8 +2945,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26705757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="2386" y="2" width="1065" height="1041" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2577,7 +3003,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="58" />
+      <option name="time" value="65" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="app">
@@ -2610,10 +3036,145 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_landscreen.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="43" column="27" lean-forward="false" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lawloretienne/imagegallery/0.1.0/478c2df9a9906f540130a98dde0d628f6ebe1cef/imagegallery-0.1.0-sources.jar!/com/etiennelawlor/imagegallery/library/activities/ImageGalleryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/landscreenFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="108" column="64" lean-forward="false" selection-start-line="108" selection-start-column="64" selection-end-line="108" selection-end-column="64" />
+        <state relative-caret-position="136">
+          <caret line="103" column="8" lean-forward="false" selection-start-line="103" selection-start-column="8" selection-end-line="142" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/mainmenuFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/activity_main_drawer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="46" column="11" lean-forward="true" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-249">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/app_bar_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/itukisfest/koksal/itukisfestcom/itukisfest/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3106#3114#0" expanded="true" />
+            <element signature="e#11139#11389#0" expanded="true" />
+            <element signature="e#11388#11389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding />
         </state>
       </provider>

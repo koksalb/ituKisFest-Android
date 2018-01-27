@@ -25,6 +25,13 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name="com.etiennelawlor.imagegallery.library.activities.ImageGalleryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label=""
+            android:theme="@style/Theme.ImageGallery" />
+
+
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_icon"
             android:resource="@drawable/beyazlogo1" />

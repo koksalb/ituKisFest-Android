@@ -80,7 +80,6 @@ import static itukisfest.koksal.itukisfestcom.itukisfest.R.id.imageView;
 
 public class landscreenFragment extends Fragment {
     public List<imglr> eventlistt = new ArrayList<imglr>();
-    public int eventcount=0;
     public DatabaseReference mDatabase;
     public  ToggleButton toggleButton;
     public int latestposition = 0;
@@ -104,47 +103,32 @@ public class landscreenFragment extends Fragment {
 
         mDatabase = FirebaseDatabase.getInstance().getReference();
         mDatabase.keepSynced(true);
-        mDatabase.child("gallery").addValueEventListener(new ValueEventListener() {
+        mDatabase.child("gallery").addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 eventlistt.clear();
-
+                Log.v("Test", "OnDataChange");
                 for (DataSnapshot data : dataSnapshot.getChildren()){
 
-
-
-                    mDatabase.child("gallery").child(String.valueOf(data.getKey())).addListenerForSingleValueEvent(
-                            new ValueEventListener() {
-                                @Override
-                                public void onDataChange(DataSnapshot dataSnapshot) {
-
                                     imglr user = new imglr();
-                                    String read;
-                                    read = dataSnapshot.getValue(String.class);
-                                    user.imageURL=read;
-
-                                    Collections.reverse(eventlistt);
+                                    user.imageURL=data.getValue(String.class);
                                     eventlistt.add(new imglr(user.imageURL));
-                                    eventcount++;
-
-                                    Collections.reverse(eventlistt);
-                                    CustomAdapter adapter = new CustomAdapter(getContext(), R.layout.recylerrow,eventlistt);
-                                    ListView lw = (ListView) getView().findViewById(android.R.id.list);
-                                    lw.setAdapter(adapter);
-                                    adapter.notifyDataSetChanged();
-                                    lw.invalidateViews();
-                                    Log.v("Test", "List Taken");
 
 
-                                }
-                                @Override
-                                public void onCancelled(DatabaseError databaseError) {
-                                }
-                            });
+                                    Log.v("Test", eventlistt.size() + "Images Taken");
+
+
+
 
 
                 }
-
+                Collections.reverse(eventlistt);
+                CustomAdapter adapter = new CustomAdapter(getContext(), R.layout.recylerrow,eventlistt);
+                ListView lw = (ListView) getView().findViewById(android.R.id.list);
+                lw.setScrollingCacheEnabled(true);
+                lw.setAdapter(adapter);
+                adapter.notifyDataSetChanged();
+                lw.invalidateViews();
 
 
 
