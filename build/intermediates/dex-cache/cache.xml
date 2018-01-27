@@ -2,319 +2,301 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_b5bd54792a8bac9e0dc9111bf0cfe6ca5290392b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_a6d94d2b4b4b3c31dd47d3fd2aa4bc1306c94e61\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9e48caa7d677be52fe556fcc26485987a9382d40\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_7756f772377506b51d54602b595b71a7ba012929\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_4a7ad425a16b8ec71fd13ae273289d1eeda7c6d8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aa98df29ac34e166613339565b82bff4e53f9739\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_feeba16e9b101a492dd5303ff0d962f210bff8fe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_cb2519eb9a2320e2534bb14192cdd82c252e4ba3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_42b181a9b7e4d658647a6701fc3348297c01f9d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_c03d85be44b2a50dd3e1112f47c848b4f52ff92c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_22f036413166721f2f61afac5ce9174669fdfaa8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_a1a24ff5f94176f1c616caf63f66d1d16632fd2b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_4cf26c351a97d5ad29301903334ac20182439595\classes.dex" />
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_ba002872f0607ddc147711d5eaa71b8e2138fb1b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b9c98ded4e8a7733e3c0e69e9debcf9fafc51571\classes.dex" />
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_1d5de36b45ca4580988f9ddedc1f15bdbe5a9f7c.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_202aed27d18e06f9ebd5c7a90f34259d82e4802e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b7bb159e3fc19ec277152e633748a1e78e31faaf">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7bbd34650c78c3c471d1f72e7bba5496547527eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c938aa2c9fcc490b674780662ae87a5ce337071a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d5a43ad7459bf314509f7cc72f3bcd613aa87787\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_05e322eaa317e55738ba81ba46554c20055157bd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.0_70adb590d0e9596f4a3c4f5ea2df6dcb3809e192\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_949e3d67c8cbee46047d6d53300e06e221ae4a46\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\uk.co.chrisjenx-calligraphy-2.2.0_22be95838b10325506628f72301df7788a31f6bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_f680383aab979f5e1ac8ffaacc49cb02915cc11d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_76b0f5e3a46f510f6a10c9cf2cd611c6a6ae52eb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.3.1_571c3761e0c5f3a60c6149602e957f446c4bf014\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_d8d3e68cb5a0e743f38cafe7679784876097c5bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_65a1b8972ad95c80a0b9ae6d109923128bc673cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_e11d2bbf1e835c48ec13d35c91552d4ee1fd075f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3d4beec82fb363d581c1ed369f43a43cabc49fc0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="279674aa5a445cb604744fb38a9af3caedf08f29">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3a43ce587222f0b5ac851dede07c8ed3b351c25d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_84beaac1eaa778d1e8d3664869e270734cb0f2b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_2fa8a9006a584fd2d8f536fc95e8635aa5a6db04\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e656af0b9aeaaccb7699396bff2c91e5a7f81aca\classes.dex" />
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2aa91b2f461cd6b3cbe525087dfc4a419eecaf4b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4bf613d6ab16f8ab5817e9dd7fe47f82d9aee8b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\koksa\Desktop\ituKisFest3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_5e2677e5ae1f0539245d9f734fa57c9d05a3cec8\classes.dex" />
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cbbe8be7bf826862b3a6ea1c4e65250de9ae80a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ae21b84b3d7e3c1be8d3e4eb6664276fff7ef493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_73f52a644bb1e9cad6328d0a3d8d28b52b39baf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_0f731004d63bce7e8c0a100f179546148db64dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_99f58c747e8e4d263a22d3af11f10295fb467855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_6916d6c7eea950874a55838083a56ef350cca696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_eb7ade3a8795c2270acfed4c63b6aa61f13438e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_6a84b6a40acaee2e9961cc3cfc290ab4d8b570ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e7576dfa725ab1ff4db8eeaa4226b12b76597a7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9b059acbd914ebeaa057217f1b9b8d25b0d2924a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_117421709a25f3b61828013859975b3b954fa0b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_fdc6bd8c5d876697398889107afbaba7d632822c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_34b2bb96795b2121524a3dfa0099c5fb7d0652a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_d79ed84967e68cf1ac0a9890a629ae7224060f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_0cbeab7152ba43fce309c575134c8d2344743410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_4f85ec15f12cfb123e908a623585a1de815bbea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes-PhotoView-1.3.1_a273664fb1b09c6a708c957c4f447d07dbc33615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c03d85be44b2a50dd3e1112f47c848b4f52ff92c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_feee2420ae57862fbe285f5ebf1c652469f6da40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_39f58a0905fbd2d5852231ce14f3a00811553700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\uk.co.chrisjenx-calligraphy-2.2.0_1075ba8c1df09ea6b4ada1fe4486dd54ae804e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_0054500e7236dc26ef5413e6fc932ba182781fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3403b6c2ee6db6d53a032926e8947bc141b9fd48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_de9ed2d89ffd3a6dac7e0d6d0af07a69eb55eba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_0cefec89fead18a6c12fd686f410992abe2c73bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_53ef5d9137a4d28022951be159d9bb39f071ff16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a934e1139397a194c8819db5e6263c811f1cdb26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\picasso-2.5.0_70adb590d0e9596f4a3c4f5ea2df6dcb3809e192.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_1a58338f4f1a82356a9676b2b458be97028cb62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ituKisFest-Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_156283c90c90d4d1ed408a20a68ccad5e121f3ea.jar" />
     </item>
 
 </items>
