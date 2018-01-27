@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\9cc84b829b5f28fe0cd9a1237f80d627\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.1.aar\675fa5a54e750e1bd42b19b9395c8d6f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8872523a4ce275c3ce6dab30951fca67\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-common-9.8.0.aar\30040b080d6ef586072c38bca654124f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-database-9.8.0.aar\6a9c5df2db5144f4067b843c3a217d89\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\f03dba6180c7f5652096c85bdbc4036c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\c05be0dfd95d93f8080bad5672b4dc62\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\imagegallery-0.1.0.aar\90c9e0b0417d75ff3744ba6ef6262527\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="285474ab972b95e611b18f870c058cc44faad2b9">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\PhotoView-1.3.1.aar\350145ff432e8c7c393e9c331fe4909f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-messaging-9.8.0.aar\029478a9986dbfb0680797f8168a3c9a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\713b9db7f1dcc6b65ce09081412c2572\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\1b682ab8eb71facf25bb64b3b7106611\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\palette-v7-22.2.0.aar\f1de1eb9e148bb8983522ecc836bc584\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.1.aar\713b9db7f1dcc6b65ce09081412c2572\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.0.1.aar\9a0debb5187463d905db4940847ac741\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.1.aar\8872523a4ce275c3ce6dab30951fca67\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\play-services-appindexing-9.8.0.aar\1a0de651beb675ecc446fc8359188d87\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.1.aar\a276fc086fc1286e6403d7850503b954\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\00f0f252cb09547cddd1eb328dba57ac\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\calligraphy-2.2.0.aar\d45739a6b162d2f7e2037bc79bc9b486\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ebcb0bcf52fab7c586f39717f7cb8de91748b1b1">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-9.8.0.aar\a3adee5f8776d5de8a47c53316dafb8a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-storage-9.8.0.aar\6a9cf530519ffb8a818d45428d1257db\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.1.aar\4070b815a9ed72526b3726095a9378b2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\transition-25.0.1.aar\16d259007cb3483908d1ed41b1cd4266\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.1.aar\00f0f252cb09547cddd1eb328dba57ac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.1.aar\bdd8959d790423d464a477c94df7ea39\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-9.8.0.aar\22b073086bc1d9263aa7b3460de187af\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-9.8.0.aar\f0fef3e2bb9ded2681d8d43cd76c8325\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-9.8.0.aar\fa5bd33f07010ac32c3ca609c9fa13c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\firebase-iid-9.8.0.aar\09fdf38299681ed216ff8581e3033f7c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.1.aar\9cc84b829b5f28fe0cd9a1237f80d627\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.1.aar\1b682ab8eb71facf25bb64b3b7106611\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\design-25.0.1.aar\aa980584ec5c0534a29bf8f9122fa997\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\koksa\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\c2ea504ec710d924a46948e806a2d91c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\ituKisFest-Android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+
+</items>
