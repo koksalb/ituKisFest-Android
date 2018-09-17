@@ -4,7 +4,7 @@
 İTÜ Kış Festivali Android Uygulaması Geliştirilme Aşaması Dosyalarıdır.
 
 
-<img src="http://imgur.com/Pf2l0Di.png" width="45%" /> &nbsp; &nbsp; &nbsp;<img src="http://imgur.com/fiYntqP.png" width="45%" />
+<img src="http://imgur.com/Pf2l0Di.png" width="40%" /> <img src="http://imgur.com/fiYntqP.png" width="40%" />
 
 
-<img src="http://imgur.com/om6ddjK.png" width="50%" />
+<img src="http://imgur.com/om6ddjK.png" width="40%" /> <img src="https://i.imgur.com/nfyIptg.png" width="40%" />
